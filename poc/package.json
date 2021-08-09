@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "vue": "^2.6.11",
-    "@lambda-it/parlamentsdienste-components-library": "1.7.1"
+    "@lambda-it/parlamentsdienste-component-library": "^1.7.1"
   },
   "devDependencies": {
     "@vue/cli-service": "~4.5.0",
