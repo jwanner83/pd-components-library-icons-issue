@@ -1,18 +1,13 @@
 <template>
   <div id="app">
     <h1>Parlamentsdienste Components Library - Icon Issue</h1>
-    <pd-icon size="3" name="parlament" />
+    <pd-icon name="cancel" />
   </div>
 </template>
 
 <script>
-import PdIcon from '@lambda-it/parlamentsdienste-component-library'
-
 export default {
-  name: 'App',
-  components: {
-    PdIcon
-  }
+  name: 'App'
 }
 </script>
 
@@ -23,5 +18,6 @@ html, body, #app {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 </style>
