@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Parlamentsdienste Components Library</h1>
+    <pd-icon size="3" name="parlament" />
   </div>
 </template>
 
