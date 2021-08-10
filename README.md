@@ -5,8 +5,10 @@ This repository represents a minimal vue setup which uses the `@lambda-it/parlam
 
 ## Steps to reproduce
 1. Add a personal access token to the `.npmrc` file after `...ithub.com:_authToken=XXX` which is able to read packages
-2. Install the dependencies `npm i`
-3. Run the project `npm run serve`
+4. Login into your GitHub packages registry `npm login --registry=https://npm.pkg.github.com` and use your generated 
+personal access token as password
+5. Install the dependencies `npm i`
+6. Run the project `npm run serve`
 
 ## Expected behaviour
 The page should display the `cancel` icon.
