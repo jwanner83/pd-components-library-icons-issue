@@ -1,4 +1,6 @@
 # @lambda-it/parlamentsdienste-component-library - Icon issue 
+> The issue has been solved: https://github.com/Lambda-IT/parlamentsdienste-components/issues/72. The solution can be found in the following comment (https://github.com/Lambda-IT/parlamentsdienste-components/issues/2#issuecomment-776779970)
+
 ## Reason of existence
 This repository represents a minimal vue setup which uses the `@lambda-it/parlamentsdienste-component-library` - 
 `pd-icon` component. This component should display an icon, but unfortunately it generates an error.
